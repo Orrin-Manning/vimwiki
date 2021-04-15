@@ -8,11 +8,14 @@
 
 = Household =
 - [ ] Clean floors
+- [ ] Clean out car
+- [ ] Move all clothing/shoes into bedroom
 - [ ] Buy chicken breasts at the store
 - [ ] prepare meals out of chicken breasts
 
 = Health =
-- [ ] Go to gym
+- [ ] 30 minutes of cardio at the gym
 
 = Misc. =
 - [ ] Deposit money into bank
+- [ ] Buy new shoes
