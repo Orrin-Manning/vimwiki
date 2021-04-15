@@ -3,9 +3,16 @@
 - [ ] Add "Mission Statement" to website
 - [ ] Finish writing "uncuck article for website"
 
-Clean floors
-Walk Sasha
-Buy chicken breasts at the store
-prepare meals out of chicken breasts
-Deposit money into bank
-Go to gym
+= Sasha =
+- [ ] Walk Sasha
+
+= Household =
+- [ ] Clean floors
+- [ ] Buy chicken breasts at the store
+- [ ] prepare meals out of chicken breasts
+
+= Health =
+- [ ] Go to gym
+
+= Misc. =
+- [ ] Deposit money into bank
