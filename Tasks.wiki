@@ -17,5 +17,5 @@
 - [ ] 30 minutes of cardio at the gym
 
 = Misc. =
-- [ ] Deposit money into bank
-- [ ] Buy new shoes
+- [X] Deposit money into bank
+- [X] Buy new shoes
